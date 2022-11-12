@@ -22,7 +22,7 @@
                 "No"
             ],
             "metadata": {
-                "description": "The customer usage identifier used for telemetry purposes. The default value of False enables telemetry. The value of True disables telemetry."
+                "description": "The custodfsdfsdfmer usage identifier used for telemetry purposes. The default value of False enables telemetry. The value of True disables telemetry."
             }
         },
         "enableLogAnalytics": {
